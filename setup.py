@@ -23,7 +23,7 @@ setuptools.setup(
 
     install_requires=[
         "aiohttp>=3",
-        "telethon>=1.10",
+        "telethon>=2.0.0",
         "yarl>=1",
     ],
     extras_require={
